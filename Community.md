@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Ankit Mourya</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/AnkitMourya12</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/ankit-mourya-821aa223b/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Maharana Pratap Engineering College</td>
+  </tr>
+</table>
